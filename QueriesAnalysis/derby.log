@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jul 10 11:22:09 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-016b-da70-6aea-000001e23f80 
+on database directory /home/vancha/stockMarket/metastore_db with class loader sun.misc.Launcher$AppClassLoader@6adca536 
+Loaded from file:/home/vancha/Desktop/apache-hive-2.3.5-bin/lib/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_212-8u212-b03-0ubuntu1.16.04.1-b03
+user.dir=/home/vancha/stockMarket
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-29-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
